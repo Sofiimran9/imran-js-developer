@@ -5,4 +5,4 @@ let products = [
 ];
 
 let result = products.filter(product => product.filter.Size==="M");
-console.log(result);
+console.log(result); 
